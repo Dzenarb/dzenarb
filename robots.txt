@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dzenarb.ru/sitemap.xml
